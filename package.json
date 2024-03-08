@@ -12,7 +12,7 @@
     "node",
     "javascript"
   ],
-  "author": "Vladimir",
+  "author": "Alex Williams",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",

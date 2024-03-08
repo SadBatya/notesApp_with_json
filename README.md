@@ -1,1 +1,1 @@
-# notesApp_with_json
+# Приложение для заметок с json файлом
